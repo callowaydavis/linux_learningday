@@ -21,3 +21,17 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 
  a. Docker Hub [https://hub.docker.com/search?q=&type=image ] - Browse here for Apps to install from Docker
  
+6. Install and configure ElasticSearch 
+[ https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elastic-stack-on-ubuntu-18-04 ]
+
+7. Ansible 
+[ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-18-04 ]
+
+8. Jenkins
+[ https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04 ]
+
+9. Webmin 
+[ https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-18-04 ]
+
+10. Linux Easter Eggs 
+[ https://www.digitalocean.com/community/tutorials/top-10-linux-easter-eggs ] 
