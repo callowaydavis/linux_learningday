@@ -1,5 +1,8 @@
 Ideas for lab exercises:
 
+Follow steps 2 and 3 here, to set up a user and add to sudo group
+[ https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04 ] 
+
 1. Multi-Factor Authentication for SSH on Ubuntu 
 (https://www.digitalocean.com/community/tutorials/how-to-configure-multi-factor-authentication-on-ubuntu-18-04)
 
@@ -12,10 +15,9 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s
 4. Linux Security - UFW (Uncomplicated Firewall) 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-18-04
 
+
 5. Docker - Containerize everything!
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
 
  a. Docker Hub [https://hub.docker.com/search?q=&type=image ] - Browse here for Apps to install from Docker
  
-Follow steps 2 and 3 here, to set up a user and add to sudo group
-[ https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04 ] 
