@@ -17,3 +17,5 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 
  a. Docker Hub [https://hub.docker.com/search?q=&type=image ] - Browse here for Apps to install from Docker
  
+Follow steps 2 and 3 here, to set up a user and add to sudo group
+[ https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04 ] 
